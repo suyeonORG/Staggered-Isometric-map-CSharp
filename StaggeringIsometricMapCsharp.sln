@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaggeringIsometricMapCsharp", "StaggeringIsometricMapCsharp\StaggeringIsometricMapCsharp.csproj", "{4CD0D9A4-2BBF-4BA0-A7B9-0AD8F40C921B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD0D9A4-2BBF-4BA0-A7B9-0AD8F40C921B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD0D9A4-2BBF-4BA0-A7B9-0AD8F40C921B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD0D9A4-2BBF-4BA0-A7B9-0AD8F40C921B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD0D9A4-2BBF-4BA0-A7B9-0AD8F40C921B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF90F3EC-B30C-4271-9814-8C22AAC58A7C}
+	EndGlobalSection
+EndGlobal
