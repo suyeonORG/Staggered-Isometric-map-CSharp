@@ -1,5 +1,5 @@
-# Staggering Isometric Map in C#
-Staggering Isometric map C Sharp C# (Windows Forms)
+# Staggered Isometric Map in C#
+Staggered Isometric map C Sharp C# (Windows Forms)
 
 <div>
 <img src="https://cloud.suyeon.org/github/staggeringlogo.png" alt="Suyeon logo" height="123" width="243">
